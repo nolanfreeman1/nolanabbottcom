@@ -22,7 +22,7 @@ export default ({ title, author, kind, link, year, tags, brickColor, imgName}) =
           <a href={link} onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave} className={kind === 'book' ? styles.singleBrick : styles.doubleBrick} style={{backgroundColor: '#' + brickColor, color: '#' + fontColor}}>
           {
               !hover ? (
-                  <div className={kind == 'book' ? styles.brick : styles.doubleBrickNotHover}>
+                  <div className={kind === 'book' ? styles.brick : styles.doubleBrickNotHover}>
                     <div className={styles.brickTitleContainer}>
                         <p className={styles.brickTitle}>{title}</p>
                     </div>

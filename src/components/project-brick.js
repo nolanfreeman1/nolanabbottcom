@@ -2,7 +2,6 @@ import React, { useState }from "react";
 import styles from "../styles/projects.module.css";
 import Image from './dynamicImage.js';
 import ImageGrey from './dynamicImageGreyscale.js';
-import { Link } from 'gatsby';
 
 export default ({ brickColor, title, status, tags, links, font, images, kind, desc, themePrimary}) => {
     const [hoverInfo, setHoverInfo] = useState(false);
