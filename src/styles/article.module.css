@@ -1,0 +1,83 @@
+.articleGrid {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.articleLink {
+  margin: 0;
+}
+.articleContainer {
+  margin: 0;
+  padding: 1em;
+}
+
+.titleText {
+  margin: 0;
+  margin-bottom: 0.5em;
+}
+
+.snippetText {
+  margin: 0;
+}
+
+.infoContainer {
+  display: flex;
+  margin: 0.5em 0;
+}
+
+.updatedText {
+  margin: 0;
+  margin-right: 1em;
+}
+
+.tagsContainer {
+  margin-left: 1em;
+}
+
+.tagText {
+  margin: 0;
+}
+
+
+
+
+
+.contentContainer {
+  margin: 0 10em;
+}
+
+.contentContainer img {
+  display: block;
+  text-align: center;
+  margin: 1em;
+}
+
+
+.contentContainer h2 {
+}
+
+.contentContainer pre {
+  margin: 1em 0;
+}
+
+.contentContainer p {
+  line-height: 1.5em;
+  display: block;
+}
+
+.contentContainer a {
+  color: #191a1d;
+  text-decoration: underline;
+}
+
+.contentContainer a:hover {
+  color: #434445;
+  text-decoration: none;
+}
+
+.contentContainer code {
+  color: #f3f5f4;
+  background-color: #191a1d;
+  margin: none;
+  padding: 0.25em;
+}

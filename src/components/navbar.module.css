@@ -1,0 +1,60 @@
+.container {
+  display: flex;
+  background-color: #191A1D;
+  position: sticky;
+}
+
+.leftContainer {
+  width: 100%;
+  margin-top: 1em;
+  margin-left: 1em;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 1.25em;
+}
+
+.breadcrumbContainer {
+  margin-left: 2em;
+  font-size: 0.75em;
+}
+
+.breadcrumbItem {
+  color: #F3F5F4;
+  font-family: hack;
+}
+
+.breadcrumbItem > a:hover {
+  color: #6F7171;
+}
+
+.navContainer {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  position: relative;
+  margin-right: 1em;
+}
+
+.list {
+  list-style-type: none;
+  margin: 1em 0;
+  display: flex;
+  justify-content: center;
+}
+
+li, p {
+  display: inline;
+}
+
+.link {
+  margin: 1em;
+}
+
+.link:hover, .linktext:hover {
+  color: #6F7171;
+}
+
+

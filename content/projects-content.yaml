@@ -1,0 +1,174 @@
+header: Projects
+content:
+  - item:
+      title: PySnake
+      status: Completed
+      tags: Python
+      links: {github: 'https://github.com/nolanfreeman/pysnake', meta: 'pysnake'}
+      font: retro
+      imgs: 
+        - pysnake
+        - pysnake-ingame
+      kind: Game
+      desc: PySnake is a simple Snake game and my first Python project. Created with Pyhon and Pygame it has some features such as powerups and configurable settings in the menu. 
+      rank: a
+      primarycolor: '27AE60'
+  - item:
+      title: VMC Logo
+      status: Completed
+      tags: AdobeIllustrator
+      links: {meta: 'vmc-logo'}
+      font: roman
+      imgs:
+        - vmc-logo
+      kind: Graphic Design
+      desc: This logo was created for my highschool that was utilized as an secondary logo for their hockey uniforms.
+      rank: c
+      primarycolor: '196E50'
+  - item:
+      title: Shapes Inc. Logo
+      status: Completed
+      tags: AdobeIllustrator
+      links: {meta: 'shapes-logo'}
+      font:
+      imgs:
+        - shapes
+      kind: Graphic Design
+      desc: This logo was created for a mock company and utilized in a set of certification project through freeCodeCamp
+      rank: d
+      primarycolor: 'D2A86E' 
+  - item:
+      title: Musk2048 Campaign Logo
+      status: Completed
+      tags: AdobeIllustrator
+      links: {meta: 'musk-campaign-logo'}
+      font:
+      imgs:
+        - musk-campaign
+      kind: Graphic Design
+      desc: This logo was created for a mock presidential campaign and utilized in a set of certification project through freeCodeCamp
+      rank: d
+      primarycolor: 'D35400' 
+  - item:
+      title: Pyper.io
+      status: Active
+      tags: Python
+      links: {github: 'https://github.com/nolanfreeman/pypyerio', meta: 'pyperio'}
+      font: 
+      imgs:
+      kind: Game
+      desc: A simple desktop game with python that is basically a remake of the popular iphone game Paper.io
+      rank: a
+      primarycolor: '2980B9'
+  - item:
+      title: nolanabbott.com 
+      status: Completed
+      tags:
+        - React
+        - GatsbyJS
+        - GraphQL
+        - JavaScript
+        - HTML
+        - CSS
+      links: {website: 'https://nolanabbott.com/', meta: 'nolanabbottcom', github: 'https://github.com/nolanfreenan/nolanabbottcom'}
+      font: futura
+      imgs: 
+      kind: Website
+      desc: The current website you are viewing, created with React and GatsbyJS. Made to be a hub for everything I want to be publically availible.
+      rank: a
+      primarycolor: 'D35400'
+  - item:
+      title: Christopher Nolan Tribute Page
+      status: Completed
+      tags:
+        - HTML
+        - CSS
+      links: {github: 'https://github.com/nolanfreeman/fcc-responsive-web-design/', meta: 'fcc/tribute', website: 'https://nolanfreeman.github.io/fcc-responsive-web-design/christopher_nolan_tribute_page/index.html'}
+      font:
+      imgs: 
+        - tribute
+      kind: Website
+      desc: My first ever website. Created for freeCodeCamps Responsive Web Design Certification.
+      primarycolor: 'D35400' 
+  - item:
+      title:  Musk2048 Newsletter Signup
+      status: Completed
+      tags:
+        - HTML
+        - CSS
+      links: {github: 'https://github.com/nolanfreeman/fcc-responsive-web-design', meta: 'fcc/form', website: 'https://nolanfreeman.github.io/fcc-responsive-web-design/musk_2048_campaign_form/index.html'}
+      font:
+      imgs:
+        - form
+      kind: Website
+      desc: A mock presidential campaign newsetter signup. Created for freeCodeCamps Responsive Web Design Certification.
+      primarycolor: '474787'
+  - item:
+      title: Personal Portfolio Page
+      status: Completed
+      tags:
+        - HTML
+        - CSS
+      links: {github: 'https://github.com/nolanfreeman/fcc-responsive-web-design', meta: 'fcc/portfolio', website: 'https://nolanfreeman.github.io/fcc-responsive-web-design/personal_portfolio_page/index.html'}
+      font:
+      imgs:
+        - portfolio
+      kind: Website
+      desc: My 5th website; created as a showcase for the previous 4 project I did with web development. Created for freeCodeCamps Responsive Web Design Certification.
+      primarycolor: '34495e'
+  - item:
+      title: The Box Product Page
+      status: Completed
+      tags:
+        - HTML
+        - CSS
+      links: {github: 'https://github.com/nolanfreeman/fcc-responsive-web-design', meta: 'fcc/product', website: 'https://nolanfreeman.github.io/fcc-responsive-web-design/the_box-product_page/index.html'}
+      font:
+      imgs:
+        - product
+      kind: Website
+      desc: A fake product page. Created for freeCodeCamps Responsive Web Design Certification.
+      primarycolor: 'D2A86E'
+  - item:
+      title: The Box Technical Docs
+      status: Completed
+      tags:
+        - HTML
+        - CSS
+      links: {github: 'https://github.com/nolanfreeman/fcc-responsive-web-design', meta: 'fcc/docs', website: 'https://nolanfreeman.github.io/fcc-responsive-web-design/the_box-technical_docs/index.html'}
+      font:
+      imgs:
+        - docs
+      kind: Website
+      desc: A fake set of documentation for a fake product. Created for freeCodeCamps Responsive Web Design Certification.
+      primarycolor: 'D2A86E'
+  - item:
+      title: Streamline
+      status: Paused
+      tags:
+        - NextJS
+        - React
+        - ExpressJS
+        - Javascript
+        - HTML
+        - CSS
+        - PostgreSQL
+      links: {github: 'https://github.com/nolanfreeman/Streamline'}
+      font:
+      imgs:
+      kind: Website
+      desc: A hub for creators and learners. A common place for all things education.
+      primarycolor: 'C0392B'
+  - item:
+      title: EduGrabber
+      status: Buggy
+      tags:
+        - Javascript
+        - HTML
+        - CSS
+      links: {github: 'https://github.com/nolanfreeman/edu-grabber-chrome-ext'}
+      font:
+      imgs:
+      kind: Chrome Extension
+      desc: A simple chrome extension that allows grabs all the metadata from a few educational website.
+      primarycolor: '2980b9'

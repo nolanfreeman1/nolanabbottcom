@@ -1,0 +1,22 @@
+.footerContainer {
+  background-color: #191A1D;
+  color: #f3f5f4;
+  height: 10em;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  padding-top: 1em;
+}
+
+.imgContainerContainer {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.imgContainer {
+  width: 3em;
+  padding: 0 0.5em;
+}
+
+

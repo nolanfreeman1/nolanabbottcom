@@ -1,0 +1,514 @@
+header: Education
+content:
+  - item:
+      title: Use Vim Like A Pro
+      author: Tom Ottinger
+      kind: book
+      link: https://leanpub.com/VimLikeAPro
+      year: 2014
+      tags: vim & programming 
+      img: book-ottinger-2014
+  - item:
+      title: The War of Art
+      author: Steven Pressfield
+      kind: book
+      link: https://www.amazon.com/War-Art-Through-Creative-Battles/dp/0446691437
+      year: 2003
+      tags: productivity & psychology & self-help
+      img: book-pressfield-2003
+  - item:
+      title: How to Disappear From The Internet
+      author: Raymond Phillips
+      kind: book
+      link: https://www.amazon.com/Disappear-Internet-Completely-Leaving-Trails-ebook/dp/B01MDOMOED
+      year: 2016
+      tags: privacy & security 
+      img: book-phillips-2016
+  - item:
+      title: The War on Normal People
+      author: Andrew Yang
+      kind: book
+      link: https://www.amazon.com/War-Normal-People-Disappearing-Universal-ebook/dp/B075CRY4TZ
+      year: 2018
+      tags: politics & technology & economics 
+      img: book-yang-2018
+  - item:
+      title: Free Will
+      author: Sam Harris
+      kind: book
+      link: https://www.amazon.com/Free-Will-Deckle-Edge-Harris/dp/1451683405
+      year: 2012
+      tags: philosophy & psychology
+      img: book-harris-2012
+  - item:
+      title: The Hitchhiker's Guide to the Galaxy
+      author: Douglas Adams
+      kind: book
+      link: https://www.amazon.com/Hitchhikers-Guide-Galaxy-Douglas-Adams/dp/0345391802
+      year: 1979
+      tags: sci-fi
+      img: book-adams-1979
+  - item:
+      title: Restaurant at the End of the Universe
+      author: Douglas Adams
+      kind: book
+      link: https://www.amazon.com/Restaurant-at-End-Universe/dp/0345391810
+      year: 1980
+      tags: sci-fi 
+      img: book-adams-1980
+  - item:
+      title: Life, the Universe and Everything
+      author: Douglas Adams
+      kind: book
+      link: https://www.amazon.com/Universe-Everything-Hitchhikers-Guide-Galaxy/dp/0345391829
+      year: 1982
+      tags: sci-fi 
+      img: book-adams-1982
+  - item:
+      title: So Long, and Thanks for All the Fish
+      author: Douglas Adams
+      kind: book
+      link: https://www.amazon.com/Long-Thanks-Hitchhikers-Guide-Galaxy/dp/0345391837
+      year: 1984
+      tags: sci-fi 
+      img: book-adams-1984
+  - item:
+      title: The Day Traders Course
+      author: Lewis Borsellino
+      kind: book
+      link: https://www.amazon.com/Day-Traders-Course-High-Profit-Strategies/dp/B019NDQDW8
+      year: 2001
+      tags: investing
+      img: book-borsellino-2001
+  - item:
+      title: The Art of Peace
+      author: Morihei Ueshiba
+      kind: book
+      link: https://www.amazon.com/Art-Peace-Morihei-Ueshiba/dp/1590304489
+      year: 2007
+      tags: philosophy & self-help
+      img: book-ueshiba-2007
+  - item:
+      title: A Game of Thrones
+      author: George R. R. Martin
+      kind: book
+      link: https://www.amazon.com/Game-Thrones-Song-Fire-Book/dp/0553593714
+      year: 2011
+      tags: fiction & Fantasy
+      img: book-martin-2011
+  - item:
+      title: The Memory Book
+      author: Harry Lorayne & Jerry Lucas
+      kind: book
+      link: https://www.amazon.com/Memory-Book-Classic-Improving-School/dp/0345410025
+      year: 1974
+      tags: memory & self-help & psychology
+      img: book-lorayne-lucas-1974
+  - item:
+      title: Annihilation
+      author: Jeff Vandermeer
+      kind: book
+      link: https://www.amazon.com/gp/product/B00EGJ32A6/
+      year: 2014
+      tags: sci-fi
+      img: book-vandermeer-2014
+  - item:
+      title: Acceptance
+      author: Jeff Vandermeer
+      kind: book
+      link: https://www.amazon.com/gp/product/B00ILWNU2E
+      year: 2014
+      tags: sci-fi 
+      img: book-vandermeer-2014-3
+  - item:
+      title: Authority
+      author: Jeff Vandermeer
+      kind: book
+      link: https://www.amazon.com/gp/product/B00GET18P2
+      year: 2014
+      tags: sci-fi
+      img: book-vandermeer-2014-2
+  - item:
+      title: The Art of Expressing the Human Body
+      author: Bruce Lee
+      kind: book
+      link: https://www.amazon.com/Bruce-Expressing-Human-Body-Library/dp/0804831297
+      year: 1998
+      tags: health-fitness & philosophy
+      img: book-lee-1998
+  - item:
+      title: Zero to One
+      author: Peter Thiel
+      kind: book
+      link: https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296
+      year: 2014
+      tags: finance & entrepreneurship 
+      img: book-thiel-2014
+  - item:
+      title: Living with a SEAL
+      author: Jesse Itzler
+      kind: book
+      link: https://www.amazon.com/Living-SEAL-Training-Toughest-Planet-ebook/dp/B00U6DNZB2
+      year: 2015
+      tags: health-fitness & non-fiction 
+      img: book-itzler-2015
+  - item:
+      title: Elon Musk
+      author: Ashlee Vance
+      kind: book
+      link: https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future/dp/006230125X
+      year: 2017
+      tags: biography & history
+      img: book-vance-2017
+  - item:
+      title: How to Win Friends & Influence People
+      author: Dale Carnegie
+      kind: book
+      link: https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034
+      year: 1936
+      tags: business & psychology 
+      img: book-carnegie-1936
+  - item:
+      title: 1984
+      author: George Orwell
+      kind: book
+      link: https://www.amazon.com/1984-George-Orwell-ebook/dp/B003JTHWKU
+      year: 1949
+      tags: sci-fi
+      img: book-orwell-1949
+  - item:
+      title: Astrophysics for People in a Hurry
+      author: Neil deGrasse Tyson
+      kind: book
+      link: https://www.amazon.com/Astrophysics-People-Hurry-Grasse-Tyson-ebook/dp/B01MAWT2MO
+      year: 2016
+      tags: science & physics & astronomy 
+      img: book-tyson-2016
+  - item:
+      title: Can't Hurt Me
+      author: David Goggins
+      kind: book
+      link: https://www.amazon.com/Cant-Hurt-Me-Master-Your/dp/1544512287
+      year: 2018
+      tags: psychology & health-fitness & biography
+      img: book-goggins-2018
+  - item:
+      title: The Flinch
+      author: Julien Smith
+      kind: book
+      link: http://www.inoveryourhead.net/trust-agents/
+      year: 2009
+      tags: psychology 
+      img: book-smith-2009
+  - item:
+      title: Conscious
+      author: Annaka Harris
+      kind: book
+      link: https://www.amazon.com/Conscious-Brief-Guide-Fundamental-Mystery/dp/0062906712
+      year: 2019
+      tags: philosophy & psychology 
+      img: book-harris-2019
+  - item:
+      title: Fahrenheit 451
+      author: Ray Bradbury
+      kind: book
+      link: https://www.amazon.com/gp/product/B0064CPN7I
+      year: 1953
+      tags: fiction
+      img: book-bradbury-1953
+  - item:
+      title: Brave New World
+      author: Aldous Huxley
+      kind: book
+      link: https://www.amazon.com/Brave-New-World-Aldous-Huxley-ebook/dp/B00JTYQJ3K
+      year: 1932
+      tags: sci-fi 
+      img: book-huxley-1932
+  - item:
+      title: How to Lie with Statistics
+      author: Darrell Huff
+      link: https://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/0393310728
+      kind: book
+      year: 1954
+      tags: statistics & psychology
+      img: book-huff-1954
+  - item:
+      title: You Don't Know JS:Up and Going
+      author: Kyle Simpson
+      kind: book
+      link: https://www.ebooks.com/en-us/1993212/you-don-t-know-js-up-going/simpson-kyle/
+      year: 2015
+      tags: javascript & programming
+      img: book-simpson-2015
+  - item:
+      title: The Little Book That Beats the Market
+      author: Joel Greenblatt
+      kind: book
+      link: https://www.amazon.com/Little-Book-Still-Beats-Market/dp/0470624159
+      year: 2010
+      tags: investing
+      img: book-greenblatt-2010
+  - item:
+      title: Way of the Wolf
+      author: Jordan Belfort
+      kind: book
+      link: https://www.amazon.com/Way-Wolf-Straight-Persuasion-Influence/dp/1501164287
+      year: 2017
+      tags: business & psychology
+      img: book-belfort-2017
+  - item:
+      title: With Winning in Mind
+      author: Lanny Bassham
+      kind: book
+      link: https://www.amazon.com/Winning-Mind-3rd-Ed-ebook/dp/B004XD1M20
+      year: 2011
+      tags: psychology & philosophy
+      img: book-bassham-2011
+  - item:
+      title: Life 3.0
+      author: Max Tegmark
+      kind: book
+      link: https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101970316
+      year: 2018
+      tags: philosophy & technology & science 
+      img: book-tegmark-2018
+  - item:
+      title: Learn Enough Command
+      author: Michael Hartl
+      kind: book
+      link: https://www.learnenough.com/checkout/tutorial/learn_enough_command_line
+      year: 2017
+      tags: programming & unix 
+      img: book-hartl-2017
+  - item:
+      title: How to Day Trade for a Living
+      author: Andrew Aziz
+      kind: book
+      link: https://www.amazon.com/How-Day-Trade-Living-Management/dp/1535585951
+      year: 2016
+      tags: investing
+      img: book-aziz-2016
+  - item:
+      title: Fluent in 3 Months
+      author: Benny Lewis
+      kind: book
+      link: https://www.amazon.com/Fluent-Months-Anyone-Language-Anywhere/dp/0062282697
+      year: 2014
+      tags: learning & language
+      img: book-lewis-2014
+  - item:
+      title: Stock Market 101
+      author: Michele Cagan
+      kind: book
+      link: https://www.amazon.com/Stock-Market-101-Dividends-Margins-Your-ebook/dp/B01LG0HDFM
+      year: 2016
+      tags: investing & economics 
+      img: book-cagan-2016
+  - item:
+      title: Ultra-learning
+      author: Scott Young
+      kind: book
+      link: https://www.amazon.com/Ultralearning-Master-Outsmart-Competition-Accelerate/dp/006285268X
+      year: 2019
+      tags: learning
+      img: book-young-2019
+  - item:
+      title: HTML & CSS
+      author: John Duckett
+      kind: book
+      link: https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189
+      year: 2011
+      tags: programming & html & css  
+      img: book-duckett-2011
+  - item:
+      title: Eloquent Javascript
+      author: Marjin Haverbeke
+      kind: book
+      link: https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming/dp/1593279507
+      year: 2018
+      tags: programming & javascript
+      img: book-haverbeke-2018
+  - item:
+      title: The Modern React Bootcamp
+      author: Colt Steele (Udemy)
+      kind: course
+      link: https://www.udemy.com/course/modern-react-bootcamp/
+      year: 2020
+      tags: programming & react & next.js
+  - item:
+      title: Data Visualization Certification
+      author: freeCodeCamp
+      kind: course
+      link: https://www.freecodecamp.org/
+      year: 2019
+      tags: programming 
+  - item:
+      title: Front End Libraries Certification
+      author: freeCodeCamp
+      kind: course
+      link: https://www.freecodecamp.org/
+      year: 2019
+      tags: programming
+  - item:
+      title: Responsive Web Design Certificiation
+      author: freeCodeCamp
+      kind: course
+      link: https://www.freecodecamp.org/
+      year: 2019
+      tags: html & css & programming
+  - item:
+      title: CompTIA A+ Certification Course
+      author: Mike Myers & Total Seminars (Udemy)
+      kind: course
+      link: https://www.udemy.com/course/new-comptia-a-2019-certification-1001-the-total-course/
+      year: 2019
+      tags: IT
+  - item:
+      title: Visual Elements of UI Design
+      author: Michael Worthinton & CalArts (Coursera)
+      kind: course
+      link: https://www.coursera.org/learn/visual-elements-user-interface-design
+      year: 2019
+      tags: design
+  - item:
+      title: The Complete 2020 Web Developer Bootcamp
+      author: Angela Yu (Udemy)
+      kind: course
+      link: https://www.udemy.com/course/the-complete-web-development-bootcamp/
+      year: 2019
+      tags: programming
+  - item:
+      title: Introduction to Psychology
+      author: Paul Bloom & Yale (Coursera)
+      kind: course
+      link: https://www.coursera.org/learn/introduction-psychology
+      year: 2019
+      tags: psychology
+  - item:
+      title: AI for Everyone
+      author: Andrew Ng & deepLearning.ai (Coursera)
+      kind: course
+      link: https://www.coursera.org/learn/ai-for-everyone
+      year:
+      tags: philosophy & business & technology 
+  - item:
+      title: CS50:Introduction to Computer Science
+      author: David Malan & Harvard (EdX)
+      kind: course
+      link: https://www.edx.org/course/cs50s-introduction-to-computer-science
+      year: 2018
+      tags: programming
+  - item:
+      title: Technical Analysis
+      author: JC Parets & Investopedia
+      kind: course
+      link: https://academy.investopedia.com/products/technical-analysis
+      year: 2019
+      tags: investing
+  - item:
+      title: Become a Day Trader
+      author: David Green & Investopedia
+      kind: course
+      link: https://academy.investopedia.com/products/become-a-day-trader
+      year: 2019
+      tags: investing
+  - item:
+      title: Investing in Stocks
+      author: Steve Ballinger (Udemy)
+      kind: course
+      link: https://www.udemy.com/course/investing-in-stocks/
+      year: 2018
+      tags: investing
+  - item:
+      title: Zero to Mastery:Web Developer
+      author: Andrei Neagoie (Udemy)
+      kind: course
+      link: https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/
+      year: 2019
+      tags: programming & html & css & javascript & react & node.js & sql & express.js
+  - item:
+      title: Java Programming Masterclass
+      author: Tim Buchalka (Udemy)
+      kind: course
+      link: https://www.udemy.com/course/java-the-complete-java-developer-course/
+      year: 2018
+      tags: programming & java
+  - item:
+      title: The Art of Magic Masterclass
+      author: Penn Jillete & Teller (Masterclass)
+      kind: course
+      link: https://www.masterclass.com/classes/penn-and-teller-teach-the-art-of-magic
+      year: 2019
+      tags: magic & performance
+      img: course-penn-teller-2019
+  - item:
+      title: Business Leadership Masterclass
+      author: Howard Schultz (Masterclass)
+      kind: course
+      link: https://www.masterclass.com/classes/howard-schultz-leading-a-values-based-business
+      year: 2019
+      tags: business
+  - item:
+      title: Introductory Computer Science 1
+      author: Helen Cameron (UManitoba)
+      kind: course
+      link: https://umanitoba.ca
+      year: 2018
+      tags:
+  - item:
+      title: Introductory Computer Science 2
+      author: Dylan Fries (UManitoba)
+      kind: course
+      link: https://umanitoba.ca
+      year: 2019
+      tags:
+  - item:
+      title: Computing:Ideas and Innovation
+      author: Franklin Bristow (UManitoba)
+      kind: course
+      link: https://umanitoba.ca
+      year: 2017
+      tags:
+  - item:
+      title: Foundations of Physical Fitness and Kinesiology
+      author: Russell Field & Johnatho (UManitoba)n Singer
+      kind: course
+      link: https://umanitoba.ca
+      year: 2018
+      tags:
+
+  - item:
+      title: Critical Thinking
+      author: Dave Hampton (UManitoba)
+      kind: course
+      link: https://umanitoba.ca
+      year: 2017
+      tags:
+  - item:
+      title: Ethics in World Religons
+      author: Michael Caligiuri (UManitoba)
+      kind: course
+      link: https://umanitoba.ca
+      year: 2019
+      tags:
+  - item:
+      title: Astronomy:Perspecives on the Universe
+      author: Christopher O'Dea (UManitoba)
+      kind: course
+      link: https://umanitoba.ca
+      year: 2018
+      tags:
+  - item:
+      title: General Astronomy 1
+      author: Samar Safi-Harb (UManitoba)
+      kind: course
+      link: https://umanitoba.ca
+      year: 2017
+      tags:
+  - item:
+      title: Introduction to Psychology
+      author: Lori Doan (UManitoba)
+      kind: course
+      link: https://umanitoba.ca
+      year: 2019
+      tags:

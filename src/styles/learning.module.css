@@ -1,0 +1,66 @@
+.gridContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.learningGrid {
+  max-width: 100%;
+  display: grid;
+  grid-template-columns: repeat(6, 190px);
+}
+
+.brick {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 10px;
+  height: 240px;
+}
+.imgContainer {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 240px;
+  padding: 0;
+}
+.doubleBrick {
+  width: 380px;
+  height: 240px;
+  grid-column-end: span 2;
+}
+
+.doubleBrickNotHover {
+  padding: 10px;
+  width: 380px;
+  height: 240px;
+  grid-column-end: span 2;
+}
+
+.doubleBrickHover {
+  padding: 10px;
+  width: 380px;
+  height: 240px;
+  grid-column-end: span 2;
+}
+
+.brickTitle {
+  font-size: 150%;
+}
+
+.brickTitleContainer {
+  height: 65%;
+}
+
+.brickAuthor {
+  font-size: 100%;
+  margin: 0;
+}
+
+.brickAuthorContainer {
+  height: 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
